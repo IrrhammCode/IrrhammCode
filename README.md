@@ -18,7 +18,7 @@ I'm a **visionary Informatics undergraduate** at Telkom University, specializing
 - 🌱 Deep-diving into **LLM pipelines, RAG architectures, and data ingestion systems**
 - 🏆 4x International Hackathon Winner (MetaMask, Surreal World Assets, Flow/Forte, Arbitrum)
 - 💼 Open to **Internship opportunities** in Data Engineering, AI, or Software Engineering
-- 📫 Reach me at **irhamhamzah09@gmail.com**
+- 📫 Reach me at **irhamhamzahedu@gmail.com**
 
 ---
 
