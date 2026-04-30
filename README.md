@@ -29,7 +29,7 @@ I'm a **visionary Informatics undergraduate** at Telkom University, specializing
 | 🤖 **AI Agent Workflows** | Building autonomous AI agents that leverage LLM orchestration, tool-calling chains, and multi-step reasoning for real-world automation tasks |
 | 📊 **Data Engineering** | Designing end-to-end data pipelines — from ingestion and cleansing to visualization — using Python, SQL, and modern analytics tooling |
 | 🔗 **Web3 Protocols** | Developing decentralized applications with smart contract escrow systems, on-chain identity registries, and cross-chain analytics |
-| 🧠 **Academic Research** | Exploring deep learning architectures (CNNs, attention mechanisms) for multimodal data analysis as part of my undergraduate thesis |
+| 🧠 **Academic Research** | Exploring deep learning architectures (CNNs, attention mechanisms) for multimodal data analysis as part of my undergraduate capstone proposal (skripsi) |
 
 ---
 
