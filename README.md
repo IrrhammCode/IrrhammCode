@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.irhamhamzah.dev"><img src="https://img.shields.io/badge/Portfolio-irhamhamzah.dev-0A66C2?style=for-the-badge" alt="Portfolio" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/irhamhamzah"><img src="https://img.shields.io/badge/LinkedIn-Irham_Hamzah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:irhamhamzahedu@gmail.com"><img src="https://img.shields.io/badge/Email-irhamhamzah09@gmail.com-EA4335?style=for-the-badge" alt="Email" /></a>
+  <a href="mailto:irhamhamzahedu@gmail.com"><img src="https://img.shields.io/badge/Email-irhamhamzahedu@gmail.com-EA4335?style=for-the-badge" alt="Email" /></a>
 </p>
 
 ---
