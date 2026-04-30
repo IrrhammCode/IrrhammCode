@@ -1,35 +1,34 @@
-<h1 align="center">Hi there, I'm Irham Muhammad Hamzah 👋</h1>
+<h1 align="center">Hi, I'm Irham Muhammad Hamzah</h1>
 
-<h3 align="center">Software Engineer | AI & Data Engineering | 4x International Hackathon Winner 🏆</h3>
+<h3 align="center">Software Engineer | AI & Data Engineering | 4x International Hackathon Winner</h3>
 
 <p align="center">
-  <a href="https://www.irhamhamzah.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-irhamhamzah.dev-0A66C2?style=for-the-badge" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.irhamhamzah.dev"><img src="https://img.shields.io/badge/Portfolio-irhamhamzah.dev-0A66C2?style=for-the-badge" alt="Portfolio" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/irhamhamzah"><img src="https://img.shields.io/badge/LinkedIn-Irham_Hamzah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:irhamhamzah09@gmail.com"><img src="https://img.shields.io/badge/📫_Email-irhamhamzah09@gmail.com-EA4335?style=for-the-badge" alt="Email" /></a>
+  <a href="mailto:irhamhamzah09@gmail.com"><img src="https://img.shields.io/badge/Email-irhamhamzah09@gmail.com-EA4335?style=for-the-badge" alt="Email" /></a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 I'm a **visionary Informatics undergraduate** at Telkom University, specializing in **Data Engineering, Applied AI, and Full-Stack Development**. I transform complex challenges into scalable, production-ready products — and I've proven it by winning **4 international hackathons** back-to-back.
 
-- 🔭 Currently building AI-powered data platforms & Web3 protocols
-- 🌱 Deep-diving into **LLM pipelines, RAG architectures, and data ingestion systems**
+- Currently building AI-powered data platforms & Web3 protocols
+- Deep-diving into **LLM pipelines, RAG architectures, and data ingestion systems**
 - 🏆 4x International Hackathon Winner (MetaMask, Surreal World Assets, Flow/Forte, Arbitrum)
-- 💼 Open to **Internship opportunities** in Data Engineering, AI, or Software Engineering
-- 📫 Reach me at **irhamhamzahedu@gmail.com**
+- Open to **Internship opportunities** in Data Engineering, AI, or Software Engineering
 
 ---
 
-### 🔬 What I'm Working On
+### What I'm Working On
 
 | Focus Area | Details |
 |-----------|---------|
-| 🤖 **AI Agent Workflows** | Building autonomous AI agents that leverage LLM orchestration, tool-calling chains, and multi-step reasoning for real-world automation tasks |
-| 📊 **Data Engineering** | Designing end-to-end data pipelines — from ingestion and cleansing to visualization — using Python, SQL, and modern analytics tooling |
-| 🔗 **Web3 Protocols** | Developing decentralized applications with smart contract escrow systems, on-chain identity registries, and cross-chain analytics |
-| 🧠 **Academic Research** | Exploring deep learning architectures (CNNs, attention mechanisms) for multimodal data analysis as part of my undergraduate capstone proposal (skripsi) |
+| **AI Agent Workflows** | Building autonomous AI agents that leverage LLM orchestration, tool-calling chains, and multi-step reasoning for real-world automation tasks |
+| **Data Engineering** | Designing end-to-end data pipelines — from ingestion and cleansing to visualization — using Python, SQL, and modern analytics tooling |
+| **Web3 Protocols** | Developing decentralized applications with smart contract escrow systems, on-chain identity registries, and cross-chain analytics |
+| **Academic Research** | Exploring deep learning architectures (CNNs, attention mechanisms) for multimodal data analysis as part of my undergraduate capstone proposal (skripsi) |
 
 ---
 
@@ -37,14 +36,14 @@ I'm a **visionary Informatics undergraduate** at Telkom University, specializing
 
 | Project | Hackathon | What I Built |
 |---------|-----------|-------------|
-| [**Agent-7715**](https://github.com/IrrhammCode/Agent-7715) & [**ChainLens**](https://github.com/IrrhammCode/chainlens) | 🥇 MetaMask Dev Cook-off | Autonomous AI agent + multi-chain analytics platform with LLM-powered insights |
-| [**StorySeal**](https://github.com/IrrhammCode/StorySeal) | 🥇 Surreal World Assets Buildathon | GenAI app with RAG-style retrieval for document validation & summarization |
-| [**WatcherForte**](https://github.com/IrrhammCode/WatcherForte) | 🥇 Forte Hacks (Flow Blockchain) | Automated NFT/token monitoring platform with scheduled autonomous transactions |
-| [**StylusArena**](https://github.com/IrrhammCode/StylusArena) | 🥇 Arbitrum APAC Mini Hack | High-performance decentralized gaming platform on Arbitrum Stylus |
+| [**Agent-7715**](https://github.com/IrrhammCode/Agent-7715) & [**ChainLens**](https://github.com/IrrhammCode/chainlens) | MetaMask Dev Cook-off | Autonomous AI agent + multi-chain analytics platform with LLM-powered insights |
+| [**StorySeal**](https://github.com/IrrhammCode/StorySeal) | Surreal World Assets Buildathon | GenAI app with RAG-style retrieval for document validation & summarization |
+| [**WatcherForte**](https://github.com/IrrhammCode/WatcherForte) | Forte Hacks (Flow Blockchain) | Automated NFT/token monitoring platform with scheduled autonomous transactions |
+| [**StylusArena**](https://github.com/IrrhammCode/StylusArena) | Arbitrum APAC Mini Hack | High-performance decentralized gaming platform on Arbitrum Stylus |
 
 ---
 
-### 🚀 Other Notable Projects
+### Other Notable Projects
 
 | Project | Description |
 |---------|-------------|
@@ -55,7 +54,7 @@ I'm a **visionary Informatics undergraduate** at Telkom University, specializing
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <table>
 <tr>
@@ -113,7 +112,7 @@ I'm a **visionary Informatics undergraduate** at Telkom University, specializing
 </p>
 
 <p align="center">
-  💬 <b>I'm actively looking for internship opportunities!</b><br/>
+  <b>I'm actively looking for internship opportunities.</b><br/>
   If you're hiring for <b>Data Engineering, AI/ML, or Software Engineering</b> roles,<br/>
   let's connect → <a href="mailto:irhamhamzah09@gmail.com"><b>irhamhamzah09@gmail.com</b></a>
 </p>
