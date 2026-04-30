@@ -114,6 +114,6 @@ I'm a **visionary Informatics undergraduate** at Telkom University, specializing
 
 <p align="center">
   <b>I'm actively looking for internship opportunities.</b><br/>
-  If you're hiring for <b>Data Engineering, AI/ML, or Software Engineering</b> roles,<br/>
+  If you're hiring for <b>Data Engineering, AI/ML, Blockchain/Web3, or Software Engineering</b> roles,<br/>
   let's connect → <a href="mailto:irhamhamzah09@gmail.com"><b>irhamhamzah09@gmail.com</b></a>
 </p>
