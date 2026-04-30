@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Irham Muhammad Hamzah</h1>
 
-<p align="center">
-  <img src="irham-foto.jpeg" width="150" style="border-radius: 50%;" />
-</p>
-
 
 <h3 align="center">Software Engineer | AI & Data Engineering | 4x International Hackathon Winner</h3>
 
