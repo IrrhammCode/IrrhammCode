@@ -4,7 +4,8 @@
 
 <p align="center">
   <a href="https://www.irhamhamzah.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-irhamhamzah.dev-0A66C2?style=for-the-badge" alt="Portfolio" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/irhamhamzah"><img src="https://img.shields.io/badge/LinkedIn-Irham_Hamzah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/irhamhamzah"><img src="https://img.shields.io/badge/LinkedIn-Irham_Hamzah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:irhamhamzah09@gmail.com"><img src="https://img.shields.io/badge/📫_Email-irhamhamzah09@gmail.com-EA4335?style=for-the-badge" alt="Email" /></a>
 </p>
 
 ---
@@ -17,6 +18,18 @@ I'm a **visionary Informatics undergraduate** at Telkom University, specializing
 - 🌱 Deep-diving into **LLM pipelines, RAG architectures, and data ingestion systems**
 - 🏆 4x International Hackathon Winner (MetaMask, Surreal World Assets, Flow/Forte, Arbitrum)
 - 💼 Open to **Internship opportunities** in Data Engineering, AI, or Software Engineering
+- 📫 Reach me at **irhamhamzah09@gmail.com**
+
+---
+
+### 🔬 What I'm Working On
+
+| Focus Area | Details |
+|-----------|---------|
+| 🤖 **AI Agent Workflows** | Building autonomous AI agents that leverage LLM orchestration, tool-calling chains, and multi-step reasoning for real-world automation tasks |
+| 📊 **Data Engineering** | Designing end-to-end data pipelines — from ingestion and cleansing to visualization — using Python, SQL, and modern analytics tooling |
+| 🔗 **Web3 Protocols** | Developing decentralized applications with smart contract escrow systems, on-chain identity registries, and cross-chain analytics |
+| 🧠 **Academic Research** | Exploring deep learning architectures (CNNs, attention mechanisms) for multimodal data analysis as part of my undergraduate thesis |
 
 ---
 
@@ -28,6 +41,17 @@ I'm a **visionary Informatics undergraduate** at Telkom University, specializing
 | [**StorySeal**](https://github.com/IrrhammCode/StorySeal) | 🥇 Surreal World Assets Buildathon | GenAI app with RAG-style retrieval for document validation & summarization |
 | [**WatcherForte**](https://github.com/IrrhammCode/WatcherForte) | 🥇 Forte Hacks (Flow Blockchain) | Automated NFT/token monitoring platform with scheduled autonomous transactions |
 | [**StylusArena**](https://github.com/IrrhammCode/StylusArena) | 🥇 Arbitrum APAC Mini Hack | High-performance decentralized gaming platform on Arbitrum Stylus |
+
+---
+
+### 🚀 Other Notable Projects
+
+| Project | Description |
+|---------|-------------|
+| [**AegisAgent**](https://github.com/IrrhammCode/AegisAgent) | Autonomous security pipeline with AI-powered vulnerability detection and automated remediation |
+| [**MoodSync Jukebox**](https://github.com/IrrhammCode/moodsync-jukebox) | AI-driven music recommendation engine using mood analysis, vector search, and real-time persona matching |
+| [**Bloom Family Budget**](https://github.com/IrrhammCode/Bloom-Family-Budget) | Mobile budgeting app with AI-assisted meal planning, renovation cost tracking, and family financial analytics |
+| [**KiteHive**](https://github.com/IrrhammCode/kitehive) | Decentralized freelance marketplace with smart contract escrow, dispute arbitration, and on-chain reputation |
 
 ---
 
@@ -61,6 +85,7 @@ I'm a **visionary Informatics undergraduate** at Telkom University, specializing
 <img src="https://img.shields.io/badge/Prompt_Engineering-000?style=flat-square" />
 <img src="https://img.shields.io/badge/Data_Ingestion-0078D4?style=flat-square" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Vector_Search-20232A?style=flat-square" />
 </p>
 
 </td>
@@ -74,6 +99,7 @@ I'm a **visionary Informatics undergraduate** at Telkom University, specializing
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
 <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 </td>
@@ -82,19 +108,12 @@ I'm a **visionary Informatics undergraduate** at Telkom University, specializing
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IrrhammCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrrhammCode&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IrrhammCode&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <i>"I don't just write code — I ship products that win."</i>
+</p>
+
+<p align="center">
+  💬 <b>I'm actively looking for internship opportunities!</b><br/>
+  If you're hiring for <b>Data Engineering, AI/ML, or Software Engineering</b> roles,<br/>
+  let's connect → <a href="mailto:irhamhamzah09@gmail.com"><b>irhamhamzah09@gmail.com</b></a>
 </p>
