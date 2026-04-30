@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Irham Muhammad Hamzah</h1>
 
 
-<h3 align="center">Software Engineer | AI & Data Engineering | 4x International Hackathon Winner</h3>
+<h3 align="center">Software Engineer | AI, Data Engineering & Web3/Blockchain | 4x International Hackathon Winner</h3>
 
 <p align="center">
   <a href="https://www.irhamhamzah.dev"><img src="https://img.shields.io/badge/Portfolio-irhamhamzah.dev-0A66C2?style=for-the-badge" alt="Portfolio" /></a>&nbsp;
