@@ -13,7 +13,7 @@
 
 ### About Me
 
-I'm a **visionary Informatics undergraduate** at Telkom University, specializing in **Data Engineering, Applied AI, and Full-Stack Development**. I transform complex challenges into scalable, production-ready products — and I've proven it by winning **4 international hackathons** back-to-back.
+I'm a **visionary Informatics undergraduate** at Telkom University, specializing in **Data Engineering, Applied AI, Blockchain/Web3, and Full-Stack Development**. I transform complex challenges into scalable, production-ready products — and I've proven it by winning **4 international hackathons** back-to-back.
 
 - Currently building AI-powered data platforms & Web3 protocols
 - Deep-diving into **LLM pipelines, RAG architectures, and data ingestion systems**
