@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Irham Muhammad Hamzah</h1>
 
-
-<h3 align="center">Software Engineer | AI, Data Engineering & Web3/Blockchain | 4x International Hackathon Winner</h3>
+<h3 align="center">GTM & MarTech builder | AI products + growth systems | 4x International Hackathon Winner</h3>
 
 <p align="center">
-  <a href="https://www.irhamhamzah.dev"><img src="https://img.shields.io/badge/Portfolio-irhamhamzah.dev-0A66C2?style=for-the-badge" alt="Portfolio" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/irhammhamzah"><img src="https://img.shields.io/badge/LinkedIn-Irham_Hamzah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://irhamhamzah.dev"><img src="https://img.shields.io/badge/Portfolio-irhamhamzah.dev-0A66C2?style=for-the-badge" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/irhammhamzah/"><img src="https://img.shields.io/badge/LinkedIn-Irham_Hamzah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:irhamhamzahedu@gmail.com"><img src="https://img.shields.io/badge/Email-irhamhamzahedu@gmail.com-EA4335?style=for-the-badge" alt="Email" /></a>
 </p>
 
@@ -13,27 +12,24 @@
 
 ### About Me
 
-I'm a **visionary Informatics undergraduate** at Telkom University, specializing in **Data Engineering, Applied AI, Blockchain/Web3, and Full-Stack Development**. I transform complex challenges into scalable, production-ready products — and I've proven it by winning **4 international hackathons** back-to-back.
+I'm an **Informatics undergraduate at Telkom University** who builds AI products — and the **go-to-market systems that sell them**. My focus now is the intersection of marketing strategy, automation, data, and AI: GTM engineering and MarTech.
 
-- Currently building AI-powered data platforms & Web3 protocols
-- Deep-diving into **LLM pipelines, RAG architectures, and data ingestion systems**
-- 🏆 4x International Hackathon Winner (MetaMask, Surreal World Assets, Flow/Forte, Arbitrum)
-- Open to **Internship opportunities** in Data Engineering, AI, Web3/Blockchain, or Software Engineering
-
----
-
-### What I'm Working On
-
-| Focus Area | Details |
-|-----------|---------|
-| **AI Agent Workflows** | Building autonomous AI agents that leverage LLM orchestration, tool-calling chains, and multi-step reasoning for real-world automation tasks |
-| **Data Engineering** | Designing end-to-end data pipelines — from ingestion and cleansing to visualization — using Python, SQL, and modern analytics tooling |
-| **Web3 Protocols** | Developing decentralized applications with smart contract escrow systems, on-chain identity registries, and cross-chain analytics |
-| **Academic Research** | Exploring deep learning architectures (CNNs, attention mechanisms) for multimodal data analysis as part of my undergraduate capstone proposal (skripsi) |
+- I run go-to-market for my own SaaS, **SatuWiyata**, end to end — ICP research, lead lists, and outbound with a live **HubSpot / Apollo / Clay** stack
+- I build the tools too: **SignalCut**, my AI pipeline that turns product photos into vertical ad videos for brands
+- 🏆 **4x International Hackathon Winner** (MetaMask, Surreal World Assets, Flow/Forte, Arbitrum) — proof I can ship working products under deadline
+- **Open to GTM / MarTech internships** — remote, starting **Dec 2026 – Jan 2027**
+- Long-term: a path toward **GTM engineering roles in Australia**
 
 ---
 
-### 🏆 Award-Winning Projects
+### Featured Projects
+
+| Project | What it is |
+|---------|------------|
+| [**SatuWiyata**](https://satuwiyata.web.id) | Multi-tenant SaaS for Indonesian high schools (attendance, grades, school administration). I built the product — and I run its go-to-market: school ICP, prospect lead lists, and an outbound motion in HubSpot, Clay & Apollo. My GTM case study, end to end. |
+| [**SignalCut**](https://github.com/IrrhammCode/signalcut) | AI pipeline that turns product photos into ready-to-post vertical ad videos (script → voice → word-timed captions → music → render). Built as the engine for an AI UGC service for DTC brands. |
+
+### 🏆 Hackathon Wins — proof of shipping
 
 | Project | Hackathon | What I Built |
 |---------|-----------|-------------|
@@ -44,7 +40,17 @@ I'm a **visionary Informatics undergraduate** at Telkom University, specializing
 
 ---
 
-### Other Notable Projects
+### My Stack
+
+**GTM & MarTech** — HubSpot (CRM) · Apollo (prospecting & enrichment) · Clay (enrichment) · n8n (automation)
+
+**Building** — Next.js · TypeScript · React · Node.js · Python · SQL
+
+**Also in the toolbox** — AI agents & LLM pipelines · REST APIs · Supabase · Docker · Git · Vercel
+
+---
+
+### More Builds
 
 | Project | Description |
 |---------|-------------|
@@ -55,65 +61,12 @@ I'm a **visionary Informatics undergraduate** at Telkom University, specializing
 
 ---
 
-### Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Languages & Frameworks**
-
-<p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-</p>
-
-</td>
-<td valign="top" width="33%">
-
-**Data & AI**
-
-<p>
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=flat-square" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-000?style=flat-square" />
-<img src="https://img.shields.io/badge/Data_Ingestion-0078D4?style=flat-square" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Vector_Search-20232A?style=flat-square" />
-</p>
-
-</td>
-<td valign="top" width="33%">
-
-**Tools & Infra**
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
-<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
 <p align="center">
-  <i>"I don't just write code — I ship products that win."</i>
+  <i>"I don't just write code — I ship products, and I build the systems that put them in customers' hands."</i>
 </p>
 
 <p align="center">
-  <b>I'm actively looking for internship opportunities.</b><br/>
-  If you're hiring for <b>Data Engineering, AI/ML, Blockchain/Web3, or Software Engineering</b> roles,<br/>
-  let's connect → <a href="mailto:irhamhamzahedu@gmail.com"><b>irhamhamzahedu@gmail.com</b></a>
+  <b>I'm actively looking for GTM / MarTech internship opportunities (remote, Dec 2026 – Jan 2027).</b><br/>
+  If you're hiring for <b>go-to-market, growth, or marketing technology</b> roles — especially ones that reward a builder who can automate —<br/>
+  let's connect → <a href="mailto:irhamhamzahedu@gmail.com"><b>irhamhamzahedu@gmail.com</b></a> · <a href="https://irhamhamzah.dev"><b>irhamhamzah.dev</b></a> · <a href="https://www.linkedin.com/in/irhammhamzah/"><b>LinkedIn</b></a>
 </p>
