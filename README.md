@@ -14,8 +14,7 @@
 
 I'm an **Informatics undergraduate at Telkom University** who builds AI products — and the **go-to-market systems that sell them**. My focus now is the intersection of marketing strategy, automation, data, and AI: GTM engineering and MarTech.
 
-- I run go-to-market for my own SaaS, **SatuWiyata**, end to end — ICP research, lead lists, and outbound with a live **HubSpot / Apollo / Clay** stack
-- I build the tools too: **SignalCut**, my AI pipeline that turns product photos into vertical ad videos for brands
+- I run go-to-market for my own product, **SignalCut** — an AI pipeline that turns product photos into vertical ad videos for brands — end to end: ICP research, lead lists, and outbound with a live **HubSpot / Apollo / Clay** stack
 - 🏆 **4x International Hackathon Winner** (MetaMask, Surreal World Assets, Flow/Forte, Arbitrum) — proof I can ship working products under deadline
 - **Open to GTM / MarTech internships** — remote, starting **Dec 2026 – Jan 2027**
 - Long-term: a path toward **GTM engineering roles in Australia**
@@ -26,7 +25,6 @@ I'm an **Informatics undergraduate at Telkom University** who builds AI products
 
 | Project | What it is |
 |---------|------------|
-| [**SatuWiyata**](https://satuwiyata.web.id) | Multi-tenant SaaS for Indonesian high schools (attendance, grades, school administration). I built the product — and I run its go-to-market: school ICP, prospect lead lists, and an outbound motion in HubSpot, Clay & Apollo. My GTM case study, end to end. |
 | [**SignalCut**](https://github.com/IrrhammCode/signalcut) | AI pipeline that turns product photos into ready-to-post vertical ad videos (script → voice → word-timed captions → music → render). Built as the engine for an AI UGC service for DTC brands. |
 
 ### 🏆 Hackathon Wins — proof of shipping
